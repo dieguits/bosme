@@ -1,5 +1,5 @@
 # CodeIgniter 2 PHP Project
-Open Source PHP Framework (originally from EllisLab)
+Open Source PHP Framework [codeigniter](https://www.codeigniter.com/userguide2/index.html)
 
 
 # Login Page
