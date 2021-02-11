@@ -15,3 +15,7 @@ Open Source PHP Framework (originally from EllisLab)
 # Service Page
 
 ![Service Page](https://github.com/dieguits/bosme/blob/master/ServicePage.png)
+
+# Menu Administration Page
+
+![Mene Page](https://github.com/dieguits/bosme/blob/master/MenuAdminPage.png)
